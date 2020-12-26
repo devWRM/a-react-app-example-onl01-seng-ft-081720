@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        'Now'
+          'Now'     {/* Now replaced the moment reference moved to the zNotes.md file */}
         </header>
         <p className="App-intro">
           <b>In React apps, we write JSX - it looks like HTML, and uses a lot of HTML syntax.
